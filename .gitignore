@@ -1,0 +1,8 @@
+#Data
+*.csv
+history.log
+scripts/
+
+#Editor files
+.vscode/
+
