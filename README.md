@@ -34,7 +34,7 @@ The key objectives of this analysis are:
 - Excel: Removing duplicates, standardizing date and time formats 
 - SQL: CTEs, Window functions, Joins, Aggregate functions, type casting
 
-### Results & Business Recommendations
+### Results & Business Recommendations:
 
 <img width="979" height="356" alt="graph_visualiser-1769887039041" src="https://github.com/user-attachments/assets/952396db-d4d2-4a7c-b209-f2356ba95a0e" />
 The above chart depicts Peak Hours vs Order Count.
@@ -44,7 +44,7 @@ Based on the analysis, I would provide the following recommendations:
 2. Given the preference for single Large pizza purchases, promotional discounts on two Medium pizzas may incentivize customers to increase order volume and overall revenue.
 3. Ensure adequate kitchen and delivery staffing during peak hours to maintain service quality and avoid delays.
 
-### Next Steps
+### Next Steps:
 
 - Explore customer-level behavior for retention insights
 - Create visual dashboards for key KPIs
